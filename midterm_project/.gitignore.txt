@@ -1,0 +1,12 @@
+# Python venv
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+# Other common stuff
+__pycache__/
+*.pyc
+.DS_Store
