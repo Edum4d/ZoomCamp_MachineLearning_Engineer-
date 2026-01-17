@@ -1,6 +1,6 @@
 # Midterm Project – Loan Repayment Prediction (Neural Networks)
 
-This repository contains my **Midterm Project** for the **Machine Learning Zoomcamp**, implemented using a **Deep Neural Network (Keras / TensorFlow)**.
+This repository contains my **Capstone 2 Project** for the **Machine Learning Zoomcamp**, implemented using a **Deep Neural Network (Keras / TensorFlow)**.
 
 The project is based on the **Kaggle Playground Series 2025** competition, where the objective is to predict the probability that a borrower will **pay back their loan**.  
 It covers the **full ML lifecycle**:
