@@ -1,4 +1,4 @@
-# Midterm Project – Loan Repayment Prediction (Neural Networks)
+# Capstone 2 Project – Loan Repayment Prediction (Neural Networks)
 
 This repository contains my **Capstone 2 Project** for the **Machine Learning Zoomcamp**, implemented using a **Deep Neural Network (Keras / TensorFlow)**.
 
