@@ -1,0 +1,22 @@
+[
+  "id",
+  "annual_income",
+  "debt_to_income_ratio",
+  "credit_score",
+  "loan_amount",
+  "interest_rate",
+  "grade_subgrade",
+  "loan_purpose",
+  "employment_status",
+  "education_level",
+  "gender_Female",
+  "gender_Male",
+  "gender_Other",
+  "marital_status_Divorced",
+  "marital_status_Married",
+  "marital_status_Single",
+  "marital_status_Widowed",
+  "loan_to_income",
+  "total_debt_est",
+  "loan_to_total_debt"
+]
